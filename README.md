@@ -3,6 +3,16 @@
 Check out the new style for App Design aims for Grocery App...😉😀😁😎
 Star⭐ the repo if you like what you see😉.
 
+## Screenshots
+
+**Please click the image below to enlarge.**
+
+<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_1.png">
+<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_2.png">
+<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_3.png">
+<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_4.png">
+
+
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
