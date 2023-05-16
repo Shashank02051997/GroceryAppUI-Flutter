@@ -7,13 +7,13 @@ Star⭐ the repo if you like what you see😉.
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_1.png">
-<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_2.png">
-<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_3.png">
-<img src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/blob/master/screenshots/screenshot_4.png">
-
+![screenshot_1](https://github.com/Shashank02051997/GroceryAppUI-Flutter/assets/20399094/117582b5-3dcc-4333-a8f4-4bbc19c22e78)
+<img width="659" alt="screenshot_2" src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/assets/20399094/a13d7f3d-bc8b-461b-a971-6bb96acbf6f2">
+<img width="655" alt="screenshot_3" src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/assets/20399094/e92ab8cb-8b6e-4523-aea9-115cb5220fb7">
+<img width="946" alt="screenshot_4" src="https://github.com/Shashank02051997/GroceryAppUI-Flutter/assets/20399094/b8dae4bc-79a8-410e-9660-04a7134a38b0">
 
 ## ✨ Requirements
+
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
